@@ -112,7 +112,7 @@ nav > a :hover {
     content: "";
     width: 60px;
     height: 60px;
-    background: url(".C:\Users\acer\Downloads\accent1.svg");
+    background: url("./images/accent1.svg");
     position: absolute;
     left: -20px;
     top: -10px;
@@ -162,7 +162,7 @@ nav > a :hover {
     width: 60px;
     height: 60px;
     position: absolute;
-    background: url("C:\Users\acer\Downloads\accent2.svg");
+    background: url("./images/accent2.svg");
     left: -20px;
     top: -10px;
     z-index: -1;
